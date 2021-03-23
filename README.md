@@ -1,0 +1,1 @@
+# pip install georss-ingv-centro-nazionale-terremoti-client
